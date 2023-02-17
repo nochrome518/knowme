@@ -1,2 +1,1 @@
 # knowme
-learning purpose
