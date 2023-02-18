@@ -1,2 +1,2 @@
 # knowme
-learning purpose
+PORTFOLIO - W1
